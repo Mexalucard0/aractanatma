@@ -1,4 +1,4 @@
-# aractanatma
+# Araçtan At / Eject passenger
 Fivem: Kullandığınız araçtan istediğiniz birini atma. / Discard any one of your vehicle.
 
 Ekran görüntüleri/Screenshots:
