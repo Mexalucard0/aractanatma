@@ -3,10 +3,13 @@ Fivem: Kullandığınız araçtan istediğiniz birini atma. / Discard any one of
 
 Ekran görüntüleri/Screenshots:
 
-1-) https://prntscr.com/ow7i1u
-2-) https://prntscr.com/ow7i4r
-3-) https://prntscr.com/ow7i6r
-4-) https://prntscr.com/ow7i8q
-5-) https://prntscr.com/ow7ibl
-6-) https://prntscr.com/ow7ict
-7-) https://prntscr.com/ow7ie8
+<ul>
+   <li>https://prntscr.com/ow7i1u</li>
+   <li>https://prntscr.com/ow7i4r</li>
+   <li>https://prntscr.com/ow7i6r</li>
+   <li>https://prntscr.com/ow7i8q</li>
+   <li>https://prntscr.com/ow7ibl</li>
+   <li>https://prntscr.com/ow7ict</li>
+   <li>https://prntscr.com/ow7ie8</li>
+  </ul>
+
